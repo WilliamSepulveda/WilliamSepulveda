@@ -26,7 +26,7 @@
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
   <img src="https://skillicons.dev/icons?i=androidstudio,css,html,js,nodejs,mysql,firebase,git,github,docker,vscode,bash,linux,ai,notion,windows,wordpress,vite,visualstudio,vercel,ubuntu,ts,twitter,tailwind,svg,react,py,powershell,nextjs,linkedin,ps&perline=12" />
 
   </a>
@@ -71,7 +71,7 @@
 
 <!--- trophy (start) -->
 <div  align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+  <a href="#" title="Go to Source">
       <img  style="margin-top: 10vh" align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=WilliamSepulveda&theme=algolia" alt="TROPHY" />
     </a>
 </div>
